@@ -15,7 +15,7 @@ using Amazon.S3.Model;
 
 namespace AWS_POC
 {
-    class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
