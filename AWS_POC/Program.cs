@@ -23,7 +23,7 @@ namespace AWS_POC
             //var newlyLaunchedInstanceIds = LaunchEC2InstanceInClassic();
             //StopEC2Instance(newlyLaunchedInstanceIds);
             //StopEC2Instance();
-            StartEC2Instance();
+            //StartEC2Instance();
             Console.Write(GetServiceOutput());
             Console.Read();
         }
